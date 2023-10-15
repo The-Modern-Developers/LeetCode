@@ -1,3 +1,6 @@
+[submodule "Java-Programs"]
+	path = Java-Programs
+	url = https://github.com/Neelesh-Janga/Java-Programs
 [submodule "JavaScript-Programs"]
 	path = JavaScript-Programs
 	url = https://github.com/akhilpenugonda/JavaScript-Programs.git
